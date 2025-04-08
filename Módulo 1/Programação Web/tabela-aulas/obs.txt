@@ -1,5 +1,0 @@
-<th>: Utilizado para destacar uma célula de forma com que fique em negrito; costumadamente associado com titúlos de linha.
-
-<thead>: Serve como uma forma de organizar e identificar uma única linha de uma tabela; como um cabeçalho.
-
-<tbody>:Encapsula um conjunto de linhas, indicando que compõem o corpo dos dados principais - ou não - de uma tabela.

@@ -1,0 +1,9 @@
+Listas ordenadas & não-ordenadas.
+Dentro de quaisquer lista, deve-se usar "<li></li>" para separar os elementos.
+
+Tipos (ordenadas):
+1 - números;
+I - números romanos em maiuscúlo;
+i - em minúsculo;
+A - letras;
+a - letras minúsculas
