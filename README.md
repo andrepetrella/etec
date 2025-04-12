@@ -1,2 +1,2 @@
-# etec
+# Etec
 Aulas da Etec.
