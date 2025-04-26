@@ -1,0 +1,42 @@
+body {
+    background-image: url(../img/paisagem.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.main {
+    position: absolute;
+    top: 25%;
+    left: 35%;
+}
+
+#titulo {
+    text-align: center;
+    font-family: "Informal Roman";
+    font-size: 40px;
+    font-style: italic;
+
+}
+
+#somar {
+    position: absolute;
+    top: 100%;
+    left: 41%;
+    width: 70px;
+    height: 30px;
+    font-family: "Informal Roman";
+    border-radius: 30%;
+    font-style: italic;
+}   
+
+#resultado {
+    font-family: "Old English Text MT";
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.input {
+    font-family: "Old English Text MT";
+}
