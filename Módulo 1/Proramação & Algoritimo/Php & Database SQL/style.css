@@ -1,0 +1,9 @@
+body {
+    font-family: Arial;
+}
+table {
+    width: 100%;
+}
+.hidden {
+    display: none;
+}
