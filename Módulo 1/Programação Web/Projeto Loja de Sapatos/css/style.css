@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: black;
+    color: aliceblue;
+    padding: 15px;
+    text-align: center;
+    border-bottom: 3px solid lightblue;
+}
+
+.container {
+    background-color: #eee;
+    min-height: 60vh;
+    padding: 50px;
+}
+
+.produtos-container {
+    min-width: 1200px;
+    margin: auto;
+}
+
+.card {
+    width: 31%;
+    margin: 1%;
+    display: inline-block;
+    padding: 15px;
+}
+
+.produtos-img {
+    width: 100%;
+    height: 300px;
+    margin-bottom: 10px;
+    background-position: center;
+    block-size: cover;
+}
+
+#img1 {
+    background-image: url("imgs/sapato-1v2.png");
+}
+
+#img2 {
+    background-image: url("imgs/sapato-2.jfif");
+}
+
+#img3 {
+    background-image: url("imgs/sapato-3.jfif");
+}
+
+#img4 {
+    background-image: url("imgs/sapato-4.jfif");
+}
+
+#img5 {
+    background-image: url("imgs/sapato-5v5.png");
+}
+
+#img6 {
+    background-image: url("imgs/sapato-6.jfif");
+}
